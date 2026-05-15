@@ -25,6 +25,6 @@ Because i don't have the original cable, i soldered wires to the back of the PCB
 I connected the common ground from the converter to the printer too.
 
 ## Obrazy / Images
-<img src="img/printer.jpg" alt="Printer" height="200">
-<img src="img/db9.jpg" alt="DB9" height="200">
-<img src="img/pins.jpg" alt="Pins" height="200">
+<img src="img/printer.jpg" alt="Printer" height="400">
+<img src="img/db9.jpg" alt="DB9" height="400">
+<img src="img/pins.jpg" alt="Pins" height="400">
