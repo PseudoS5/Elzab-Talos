@@ -21,3 +21,8 @@ Because i don't have the original cable, i soldered wires to the back of the PCB
 - 3 - RxD
 
 I connected the common ground from the converter to the printer too.
+
+## Obrazy / Images
+![Printer](img/printer.jpg)
+![DB9](img/db9.jpg)
+![Pins](img/pins.jpg)
